@@ -22,8 +22,3 @@ In case, you have to deal with your own participate file due to your needs, you 
 
 Also, functions are very simple. You can implement your own versions as well.
 
-## Further Releases ( Not Sure :) )
-
-- Improving coding style
-- Adding e-mail automation to script?
-- Implementing for Linux users?
