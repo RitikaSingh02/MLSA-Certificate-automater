@@ -9,7 +9,7 @@ both docx and pdf.
 - Required Microsoft Doc
 
 ```
-git clone https://github.com/muhammedogz/MLSA-Certificate-Automate.git
+git clone https://github.com/RitikaSingh02/MLSA-Certificate-automater.git
 cd MLSA-Certificate-Automate
 pip install -r requirements.txt
 python main_certificate.py
